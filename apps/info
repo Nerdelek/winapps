@@ -1,0 +1,11 @@
+# GNOME shortcut name
+NAME="beook"
+
+# Used for descriptions and window class
+FULL_NAME="beook"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Apps\beook\beook.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Office"
